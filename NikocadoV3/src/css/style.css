@@ -1,0 +1,30 @@
+.title{
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    font-size: 100;
+    color: red;
+}
+
+.image{
+    border-radius: 50px;
+    position: relative;
+}
+
+
+.feed{
+    margin:0;
+    padding:0;
+    width:200px;
+    height:200px;
+    background:cornflowerblue;
+    text-align:center;
+    color: #fff;
+    font-size:30px;
+    border-radius: 10px;
+}
+.white{
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    font-size: 100;
+    color: pink;
+}
