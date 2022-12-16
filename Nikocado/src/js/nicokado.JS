@@ -102,9 +102,11 @@ document.getElementById("nikocado").innerHTML=w+" kg";
     
  //   let rng_food     
 //104
-//rng_food = Math.floor(Math.random() * 2);
-//if (rng ==1)  1+1
-//
+rng_food = Math.floor(Math.random() * 2);
+if (rng ==1) {
+    console.log(1+1)
+}
+
 
 //<button id = mistery_food type="button" onclick="mystery_button ()"></button>}
 
